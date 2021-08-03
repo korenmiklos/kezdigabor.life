@@ -9,7 +9,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Gábor's life'
+    - title: "Gábor's life"
       url: '/'
     - title: 'Selected works'
       url: '/works'
