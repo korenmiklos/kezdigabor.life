@@ -5,7 +5,7 @@ description:
 featured_image: /images/panel-landscape.jpg
 ---
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="2">
 	<img src="/images/panel-square.jpg">
 	<img src="/images/present-square.jpg">
 	<img src="/images/listen-square.jpg">
@@ -17,3 +17,4 @@ featured_image: /images/panel-landscape.jpg
 	<img src="/images/panel-landscape.jpg">
 </div>
 
+Photo credit: [Dániel Végel](https://vegeldaniel.com/)

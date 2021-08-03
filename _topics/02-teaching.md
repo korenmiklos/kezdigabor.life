@@ -9,6 +9,14 @@ featured_image: /images/students-landscape.jpg
 
 ## Institutions and courses
 
+## Talks
+
+### Iskolázottság és jólét (Szexi Közgazdaságtan)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMKwNZQ7alY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Időskori demencia és fiatalkori oktatás (Rajk Connect)
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Frajkofficial%2Fvideos%2F2903329586576276%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ## Students
 ![](/images/students-landscape.jpg)
 
