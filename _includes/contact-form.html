@@ -13,8 +13,14 @@
 		</div>
 
 		<div class="contact-form__item">
-			<label class="contact-form__label">Message *</label>
+			<label class="contact-form__label">Memory *</label>
 			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Consent *</label>
+			<input type="checkbox" name="_optin" class="contact-form__input"></input>
+			<p>I consent to having my name and this message published on this website in an abbridged and edited form. I understand that my email address will not be made public.</p>
 		</div>
 
 		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
