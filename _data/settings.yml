@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Gábor Kézdi
+  site_tagline: Celebrating the life of Gábor Kézdi.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,14 +9,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Gábor's life'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Selected works'
+      url: '/works'
+    - title: 'Teaching and impact'
+      url: '/teaching'
+    - title: 'Remembrances'
+      url: '/remembrances'
+    - title: 'Gallery'
+      url: '/gallery'
 
 grid_settings:
   overlay_opacity: 0.8

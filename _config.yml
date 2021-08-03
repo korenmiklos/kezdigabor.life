@@ -1,18 +1,12 @@
-site: Index Jekyll Theme
+site: Kézdi Gábor
 
-url: https://index.jekyllthemes.io
+url: https://kezdigabor.life
 baseurl: 
 
 collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
 
 defaults:
   -
