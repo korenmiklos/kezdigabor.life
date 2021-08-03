@@ -7,6 +7,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  topics:
+    output: true
+    permalink: /topic/:name
 
 defaults:
   -
@@ -23,15 +26,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "topics"
     values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+      layout: "topic"
 
 markdown: kramdown
 

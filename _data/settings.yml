@@ -12,13 +12,13 @@ menu_settings:
     - title: "Gábor's life"
       url: '/'
     - title: 'Selected works'
-      url: '/works'
+      url: '/topic/01-works'
     - title: 'Teaching and impact'
-      url: '/teaching'
-    - title: 'Remembrances'
-      url: '/remembrances'
+      url: '/topic/02-teaching'
     - title: 'Gallery'
-      url: '/gallery'
+      url: '/topic/04-gallery'
+    - title: 'Remembrances'
+      url: '/topic/05-remembrances'
 
 grid_settings:
   overlay_opacity: 0.8
