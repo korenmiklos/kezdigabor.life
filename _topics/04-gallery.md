@@ -7,6 +7,7 @@ featured_image: /images/panel-landscape.jpg
 
 <div class="gallery" data-columns="2">
 	<img src="/images/panel-square.jpg">
+	<img src="/images/gaborok-balaton.jpg">
 	<img src="/images/present-square.jpg">
 	<img src="/images/listen-square.jpg">
 	<img src="/images/portrait.jpg">
@@ -17,4 +18,4 @@ featured_image: /images/panel-landscape.jpg
 	<img src="/images/panel-landscape.jpg">
 </div>
 
-Photo credit: [Dániel Végel](https://vegeldaniel.com/)
+Photo credit: [Dániel Végel](https://vegeldaniel.com/), Anna Fetter
