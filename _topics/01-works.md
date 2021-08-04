@@ -369,4 +369,6 @@ School), Educatio, Budapest, 1996. *Co-author: Gábor Kertesi*
 
 ## Opinion pieces
 
-- [Másképp néz a cigányokra, aki kipróbálta ezt a játékot (Defacto)](https://blog.defacto.io/post/171685012225/m%C3%A1sk%C3%A9pp-n%C3%A9z-a-cig%C3%A1nyokra-aki-kipr%C3%B3b%C3%A1lta-ezt-a)
+[Hatalmas az oktatási kiadások hatása a gyerekek felnőttkori jövedelmére](https://blog.defacto.io/post/143727252315/hatalmas-az-oktat%C3%A1si-kiad%C3%A1sok-hat%C3%A1sa-a-gyerekek)
+
+[Másképp néz a cigányokra, aki kipróbálta ezt a játékot (Defacto)](https://blog.defacto.io/post/171685012225/m%C3%A1sk%C3%A9pp-n%C3%A9z-a-cig%C3%A1nyokra-aki-kipr%C3%B3b%C3%A1lta-ezt-a)

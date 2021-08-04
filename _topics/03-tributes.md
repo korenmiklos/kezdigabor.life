@@ -24,3 +24,8 @@ Horn Dániel, a KTI igazgatója, Kézdi Gábor tanítványa így búcsúzott tő
 „Gábornak úttörő szerepe volt a tényalapú közpolitikai elemzés magyarországi meghonosításában, és blogunk létrehozásában és működtetésében. A blogunkon tárgyalt magyarországi kutatások szinte mindegyikében jelen van Gábor hatása, és jelentős részük tanítványai tollából született."
 
 [Mennyit tud egy nyolcadikos cigány diák? (Defacto)](https://blog.defacto.io/post/656209844877082624/mennyit-tud-egy-nyolcadikos-cig%C3%A1ny-di%C3%A1k)
+
+<hr/>
+Az adat önmagában nem mond semmit: sok lépés és sok, jól megfontolt döntés eredményeképp lesz belőle tudás. Kézdi hitt abban, hogy ezek a lépések taníthatók, és ezt a szemléletet adta át diákok százainak.
+
+[Kézdi Gábor nem félt a nehéz kérdésekről (Qubit)](https://qubit.hu/2021/08/04/kezdi-gabor-az-iskolai-szegregacio-es-a-romak-elleni-diszkriminacio-kutatoja-nem-felt-a-nehez-kerdesektol)
