@@ -29,3 +29,8 @@ Horn Dániel, a KTI igazgatója, Kézdi Gábor tanítványa így búcsúzott tő
 Az adat önmagában nem mond semmit: sok lépés és sok, jól megfontolt döntés eredményeképp lesz belőle tudás. Kézdi hitt abban, hogy ezek a lépések taníthatók, és ezt a szemléletet adta át diákok százainak.
 
 [Kézdi Gábor nem félt a nehéz kérdésekről (Qubit)](https://qubit.hu/2021/08/04/kezdi-gabor-az-iskolai-szegregacio-es-a-romak-elleni-diszkriminacio-kutatoja-nem-felt-a-nehez-kerdesektol)
+
+<hr/>
+Demokratizáljuk a tudást. Azt hiszem, ez volt Kézdi Gábor életének egyik nagy célja, öröme és sikere. Hatással lenni, segíteni a diákokat. 
+
+[Demokratizáljuk a tudást (Békés Gábor búcsúbeszéde)](/tribute/01-bekes)

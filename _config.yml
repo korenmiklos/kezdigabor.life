@@ -10,6 +10,9 @@ collections:
   topics:
     output: true
     permalink: /topic/:name
+  tributes:
+    output: true
+    permalink: /tribute/:name
 
 defaults:
   -
@@ -29,6 +32,12 @@ defaults:
       type: "topics"
     values:
       layout: "topic"
+  -
+    scope:
+      path: ""
+      type: "tributes"
+    values:
+      layout: "tribute"
 
 markdown: kramdown
 
