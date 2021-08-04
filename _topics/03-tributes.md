@@ -34,3 +34,8 @@ Az adat önmagában nem mond semmit: sok lépés és sok, jól megfontolt dönt�
 Demokratizáljuk a tudást. Azt hiszem, ez volt Kézdi Gábor életének egyik nagy célja, öröme és sikere. Hatással lenni, segíteni a diákokat. 
 
 [Demokratizáljuk a tudást (Békés Gábor búcsúbeszéde)](/tribute/01-bekes)
+
+<hr/>
+Nem követte a tudományos divatokat. Olyan témákon dolgozott, melyeknek társadalmi fontosságáról mélyen meg volt győződve. Felelős, bátor és elkötelezett gondolkodó volt egész életében.
+
+[Minden megvan (Kertesi Gábor búcsúbeszéde)](/tribute/02-kertesi)
