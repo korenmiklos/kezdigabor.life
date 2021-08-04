@@ -7,7 +7,7 @@ featured_image: /images/teach-landscape.jpg
 
 ![](/images/teach-landscape.jpg)
 
-"The classroom is where Gábor belonged. Hundreds of students were inspired by his passion for social science and data analysis."
+The classroom is where Gábor belonged. Hundreds of students were inspired by his passion for social science and data analysis.
 
 [CEU mourns the loss of Gábor Kézdi (CEU)](https://www.ceu.edu/article/2021-07-01/ceu-mourns-loss-gabor-kezdi)
 
@@ -21,7 +21,7 @@ Horn Dániel, a KTI igazgatója, Kézdi Gábor tanítványa így búcsúzott tő
 
 <hr/>
 
-„Gábornak úttörő szerepe volt a tényalapú közpolitikai elemzés magyarországi meghonosításában, és blogunk létrehozásában és működtetésében. A blogunkon tárgyalt magyarországi kutatások szinte mindegyikében jelen van Gábor hatása, és jelentős részük tanítványai tollából született."
+Gábornak úttörő szerepe volt a tényalapú közpolitikai elemzés magyarországi meghonosításában, és blogunk létrehozásában és működtetésében. A blogunkon tárgyalt magyarországi kutatások szinte mindegyikében jelen van Gábor hatása, és jelentős részük tanítványai tollából született.
 
 [Mennyit tud egy nyolcadikos cigány diák? (Defacto)](https://blog.defacto.io/post/656209844877082624/mennyit-tud-egy-nyolcadikos-cig%C3%A1ny-di%C3%A1k)
 
