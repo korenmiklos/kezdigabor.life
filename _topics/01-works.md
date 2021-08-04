@@ -14,6 +14,8 @@ Policy. *Co-author: Gabor Bekes.* Cambridge University Press, 2021, isbn: 978110
 [Link to book at the publisher's website](https://www.google.com/url?q=https%3A%2F%2Fwww.cambridge.org%2Fus%2Facademic%2Fsubjects%2Feconomics%2Feconometrics-statistics-and-mathematical-economics%2Fdata-analysis-business-economics-and-policy%3Fformat%3DHC&sa=D&sntz=1&usg=AFQjCNGbLKlr1fqkVPLN_qeLVhUD_EM4UQ);
 [link to the textbook support website](https://www.google.com/url?q=https%3A%2F%2Fgabors-data-analysis.com%2F&sa=D&sntz=1&usg=AFQjCNEyX_e3BDVS7p5sC8bn4A-s-1UKAQ).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0hRuozNnr8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Academic Publications
 
 "[Health differences at birth between Roma and non-Roma children in
