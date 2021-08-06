@@ -5,8 +5,12 @@ description: Written about Gábor and his work.
 featured_image: /images/teach-landscape.jpg
 ---
 
+
 ![](/images/teach-landscape.jpg)
 
+[More Endorsements](/pdf/MoreEndorsements.pdf): Kézdi-tanítványok méltatása Gábor 50. születésnapja és a [Békés-Kézdi könyv](https://gabors-data-analysis.com/) megjelenésének apropóján.
+
+<hr/>
 The classroom is where Gábor belonged. Hundreds of students were inspired by his passion for social science and data analysis.
 
 [CEU mourns the loss of Gábor Kézdi (CEU)](https://www.ceu.edu/article/2021-07-01/ceu-mourns-loss-gabor-kezdi)
