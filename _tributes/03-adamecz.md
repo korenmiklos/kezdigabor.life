@@ -2,10 +2,10 @@
 title: Gábor az egész életünkre hatással volt
 subtitle: Adamecz Anna búcsúbeszéde
 description: Adamecz Anna búcsúbeszéde
-featured_image: https://krtk.stilldev.work/wp-content/uploads/2021/06/Adamecz-Anna-scaled.jpg
+featured_image: /images/adamecz.jpg
 ---
 
-<img src="https://krtk.stilldev.work/wp-content/uploads/2021/06/Adamecz-Anna-scaled.jpg" width="200"/>
+![](/images/adamecz.jpg)
 
 2012 és 2016 között voltam Gábor PhD diákja a CEU-n, aki mentorként ez után is követte a pályámat. Nem tudom nem elmondani, milyen hatalmas veszteség, és milyen mérhetetlenül igazságtalan, hogy Gábor már nincs velünk. Minden egyes alkalommal újra meg újra megszakad a szívem, amikor rá gondolok, és tudom, hogy ezzel nem vagyok egyedül. Szeretném a diákjai nevében is kifejezni legmélyebb együttérzésem a családjának.
 
