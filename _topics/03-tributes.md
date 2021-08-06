@@ -39,3 +39,8 @@ Demokratizáljuk a tudást. Azt hiszem, ez volt Kézdi Gábor életének egyik n
 Nem követte a tudományos divatokat. Olyan témákon dolgozott, melyeknek társadalmi fontosságáról mélyen meg volt győződve. Felelős, bátor és elkötelezett gondolkodó volt egész életében.
 
 [Minden megvan (Kertesi Gábor búcsúbeszéde)](/tribute/02-kertesi)
+
+<hr/>
+Én úgy érzem, hogy Gábor nagyon élt. Szívből élt, szívből tanított és szívből kutatott. Egyrészt ezért csinálta mindkettőt olyan jól, másrészt ettől volt hiteles, ettől volt igaz. 
+
+[Gábor az egész életünkre hatással volt (Adamecz Anna búcsúbeszéde)](/tribute/03-adamecz)
