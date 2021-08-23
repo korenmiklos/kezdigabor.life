@@ -48,3 +48,8 @@ Nem követte a tudományos divatokat. Olyan témákon dolgozott, melyeknek társ
 Én úgy érzem, hogy Gábor nagyon élt. Szívből élt, szívből tanított és szívből kutatott. Egyrészt ezért csinálta mindkettőt olyan jól, másrészt ettől volt hiteles, ettől volt igaz. 
 
 [Gábor az egész életünkre hatással volt (Adamecz Anna búcsúbeszéde)](/tribute/03-adamecz)
+
+<hr/>
+Vannak emberek, akiknek a társasága biztonságot áraszt. Erőt sugároznak, azt ígérik, hogy ami jó lehet, az jó lesz, mégha meg is kell küzdeni érte. Biztosítanak arról, hogy együtt megtaláljuk a megfelelő harcmodort, s számíthatsz rájuk nemcsak a csatában, hanem a háborúban is. Kézdi Gábor ilyen ember volt.
+
+[Gábor elsősorban tanárként, pedagógusként gondolt magára (Chikán Attila búcsúbeszéde)](/tribute/04-chikan)
