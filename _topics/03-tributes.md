@@ -53,3 +53,8 @@ Nem követte a tudományos divatokat. Olyan témákon dolgozott, melyeknek társ
 Vannak emberek, akiknek a társasága biztonságot áraszt. Erőt sugároznak, azt ígérik, hogy ami jó lehet, az jó lesz, mégha meg is kell küzdeni érte. Biztosítanak arról, hogy együtt megtaláljuk a megfelelő harcmodort, s számíthatsz rájuk nemcsak a csatában, hanem a háborúban is. Kézdi Gábor ilyen ember volt.
 
 [Gábor elsősorban tanárként, pedagógusként gondolt magára (Chikán Attila búcsúbeszéde)](/tribute/04-chikan)
+
+<hr/>
+Van egy fotónk 1983-ból. Osztálykép. 6.z, a Köbölkút utcai iskola zenetagozatos osztálya. Félrecsúszott úttörőnyakkendők, túl jól vagy nagyon bénán fésült frufruk. Közvetlenül a tanárnő mellett egy feltűnően feszes tartású kisfiú. Vajon mi jár akkoriban ebben a kisfiú fejben? Milyen vágyak, álmok feszítik? Én úgy képzelem, erős akar lenni és okos, meg akar érteni, tudni akar. Mindent lehetőleg.
+
+[Hogyan kell jól csinálni? (Szombati Enikő búcsúbeszéde)](/tribute/05-szombati)
