@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Gábor Kézdi
-  site_tagline: Celebrating the life of Gábor Kézdi.
+  site_title: Kézdi Gábor
+  site_tagline: Kézdi Gáborra emlékezve
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,18 +9,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: "Gábor's life"
+    - title: "Gábor élete"
       url: '/'
-    - title: 'Selected works'
+    - title: 'Tudományos munkái'
       url: '/topic/01-works'
-    - title: 'Teaching and impact'
+    - title: 'Tanári hatása'
       url: '/topic/02-teaching'
-    - title: 'Tributes'
+    - title: 'Megemlékezések'
       url: '/topic/03-tributes'
-    - title: 'Gallery'
+    - title: 'Galéria'
       url: '/topic/04-gallery'
-    - title: 'Remembrances'
-      url: '/topic/05-remembrances'
 
 grid_settings:
   overlay_opacity: 0.8

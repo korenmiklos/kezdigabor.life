@@ -1,13 +1,13 @@
 ---
-title: Selected works
-subtitle: Academic and policy articles and op-eds.
-description: Academic and policy articles and op-eds.
+title: Tudományos munkái
+subtitle: Tudományos és szakpolitikai publikáció, véleménycikkei.
+description: Tudományos és szakpolitikai publikáció, véleménycikkei.
 featured_image: /images/viridis.jpeg
 ---
 
 ![](/images/viridis.jpeg)
 
-### Textbook
+### Tankönyv
 
 Data Analysis for Business, Economics and
 Policy. *Co-author: Gabor Bekes.* Cambridge University Press, 2021, isbn: 9781108483018. 
@@ -16,7 +16,7 @@ Policy. *Co-author: Gabor Bekes.* Cambridge University Press, 2021, isbn: 978110
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hRuozNnr8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Academic Publications
+### Tudományos publikációk
 
 "[Health differences at birth between Roma and non-Roma children in
 Hungary: Long-run trends and
@@ -150,7 +150,7 @@ Estimation](http://www.google.com/url?q=http%3A%2F%2Fwww.sciencedirect.com%2Fsci
 Economics Letters, 76(1), June 2002, pp. 35-45. *Co-authors: Jinyong
 Hahn and Gary Solon.*
 
-### Policy Publications
+### Szakpolitikai publikációk
 
 “[Low employment among the 50+ population in Hungary: the role of
 incentives, health and cognitive
@@ -209,7 +209,7 @@ Transition: the experience of Hungary, The World Bank, Washington, 1998.
 contribution to the chapter as working
 paper](http://www.google.com/url?q=http%3A%2F%2Fwww.econ.core.hu%2Fdoc%2Fbwp%2Fbwp%2Fbwp983.pdf&sa=D&sntz=1&usg=AFQjCNEd7vcAEDFLTes0Y-vf1f23qS5reQ))
 
-### Publications in Hungarian
+### Magyar nyelvű publikációk
 
 “[Az érettségi
 védelmében.](http://www.google.com/url?q=http%3A%2F%2Fwww.econ.core.hu%2Ffile%2Fdownload%2Fbwp%2Fbwp1501.pdf&sa=D&sntz=1&usg=AFQjCNFWkE6uiMOxXCtIHRyN0-CHJpJ_7w)”
@@ -367,12 +367,12 @@ koncepció vázlata.” (Gypsy Students in Primary Schools. Analysis and
 outline of an education reform), in: Cigányok és iskola (Gypsies and
 School), Educatio, Budapest, 1996. *Co-author: Gábor Kertesi*
 
-## Opinion pieces
+## Véleménycikkek
 
 [Hatalmas az oktatási kiadások hatása a gyerekek felnőttkori jövedelmére](https://blog.defacto.io/post/143727252315/hatalmas-az-oktat%C3%A1si-kiad%C3%A1sok-hat%C3%A1sa-a-gyerekek)
 
 [Másképp néz a cigányokra, aki kipróbálta ezt a játékot (Defacto)](https://blog.defacto.io/post/171685012225/m%C3%A1sk%C3%A9pp-n%C3%A9z-a-cig%C3%A1nyokra-aki-kipr%C3%B3b%C3%A1lta-ezt-a)
 
-## Interviews
+## Interjúk
 
 [Túl sok mindennel foglalkozom (Eltecon Blog)](https://eltecon.blog.hu/2012/04/20/tul_sok_mindennel_foglalkozom_interju_kezdi_gaborral)

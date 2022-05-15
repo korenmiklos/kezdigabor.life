@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Galéria
 subtitle: 
 description: 
 featured_image: /images/panel-landscape.jpg

@@ -1,15 +1,15 @@
 ---
-title: Teaching and impact
-subtitle: Courses, students and mentees.
-description: Courses, students and mentees.
+title: Tanári hatása
+subtitle: Tantárgyak, diákok és mentoráltak.
+description: Tantárgyak, diákok és mentoráltak.
 featured_image: /images/students-landscape.jpg
 ---
 
 ![](/images/teach-landscape.jpg)
 
-## Institutions and courses
+## Tantárgyak
 
-## Talks
+## Előadások
 
 ### Iskolázottság és jólét (Szexi Közgazdaságtan)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WMKwNZQ7alY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,10 +34,10 @@ About ongoing research and its difficulties:
 ### Book launch for Data Analysis for Business, Economics, and Policy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hRuozNnr8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Students
+## Diákok
 ![](/images/students-landscape.jpg)
 
-### Ph.D. students
+### Doktori diákok
 - [Brenden Timpe](https://www.brendentimpe.com/) (2019) 
 - [Anna Adamecz-Volgyi](http://budapestinstitute.eu/index.php/about_us/datasheet2/adamecz_anna/en) (2017)
 - [Agnes Szabo-Morvai](https://szabomorvaiagnes22.wixsite.com/website) (2017)
@@ -52,7 +52,7 @@ About ongoing research and its difficulties:
 - [Attila Kincses](https://www.mckinsey.com/our-people/attila-kincses#) (2009)
 - [Laszlo Paizs](https://rekk.hu/munkatars/15/paizs-laszlo) (2006)
 
-### Selected list of M.A. students
+### Mesterdiákok
 - [Asenka Asenova](https://lsa.umich.edu/econ/people/faculty/asenovaa.html)
 - [Janos K. Divenyi](https://divenyijanos.github.io/)
 - [Peter Hudomiet](https://www.rand.org/about/people/h/hudomiet_peter.html)

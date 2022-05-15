@@ -1,7 +1,7 @@
 ---
-title: Tributes
-subtitle: Written about Gábor and his work.
-description: Written about Gábor and his work.
+title: Megemlékezések
+subtitle: Gábor életéről és munkájáról.
+description: Gábor életéről és munkájáról.
 featured_image: /images/teach-landscape.jpg
 ---
 
