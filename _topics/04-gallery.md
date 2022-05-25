@@ -18,4 +18,4 @@ featured_image: /images/panel-landscape.jpg
 	<img src="/images/panel-landscape.jpg">
 </div>
 
-Photo credit: [Dániel Végel](https://vegeldaniel.com/), Anna Fetter
+Fotókat készítette: [Dániel Végel](https://vegeldaniel.com/), Anna Fetter

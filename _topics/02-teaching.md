@@ -14,14 +14,14 @@ featured_image: /images/students-landscape.jpg
 ### Iskolázottság és jólét (Szexi Közgazdaságtan)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WMKwNZQ7alY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Gábor's introductory video for Data Analysis students
+### Bevezető videója Adata elemző diákok számára
 <iframe src="https://www.facebook.com/plugins/video.php?height=420&href=https%3A%2F%2Fwww.facebook.com%2Fgabor.bekes.7%2Fvideos%2F260997052165852%2F&show_text=false&width=560&t=0" width="560" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-How he met data analysis:
+Hogyan találkozott az adat elemzés területével:
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=420&href=https%3A%2F%2Fwww.facebook.com%2Fgabor.bekes.7%2Fvideos%2F181190030669527%2F&show_text=false&width=560&t=0" width="560" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-About ongoing research and its difficulties:
+A kutatási folyamatról és annak nehézségeiről:
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=420&href=https%3A%2F%2Fwww.facebook.com%2Fgabor.bekes.7%2Fvideos%2F209396291131206%2F&show_text=false&width=560&t=0" width="560" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -31,7 +31,7 @@ About ongoing research and its difficulties:
 ### Időskori demencia és fiatalkori oktatás (Rajk Connect)
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Frajkofficial%2Fvideos%2F2903329586576276%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-### Book launch for Data Analysis for Business, Economics, and Policy
+### Data Analysis for Business, Economics, and Policy könyvindító előadása
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hRuozNnr8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Diákok

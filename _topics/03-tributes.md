@@ -11,9 +11,9 @@ featured_image: /images/teach-landscape.jpg
 [More Endorsements](/pdf/MoreEndorsements.pdf): Kézdi-tanítványok méltatása Gábor 50. születésnapja és a [Békés-Kézdi könyv](https://gabors-data-analysis.com/) megjelenésének apropóján.
 
 <hr/>
-The classroom is where Gábor belonged. Hundreds of students were inspired by his passion for social science and data analysis.
+A tanterem volt, ahol Gábor igazán elemében lehetett/ A tanterem volt Gábor természtes közege. Diákok százait inspirálta a társadalomtudmány és adatelemzés iránti szenvedélye. 
 
-[CEU mourns the loss of Gábor Kézdi (CEU)](https://www.ceu.edu/article/2021-07-01/ceu-mourns-loss-gabor-kezdi)
+[A CEU gyászolja Kézdi Gábort, volt oktatóját](https://www.ceu.edu/article/2021-07-01/ceu-mourns-loss-gabor-kezdi)
 
 <hr/>
 
@@ -32,7 +32,7 @@ Gábornak úttörő szerepe volt a tényalapú közpolitikai elemzés magyarorsz
 <hr/>
 Az adat önmagában nem mond semmit: sok lépés és sok, jól megfontolt döntés eredményeképp lesz belőle tudás. Kézdi hitt abban, hogy ezek a lépések taníthatók, és ezt a szemléletet adta át diákok százainak.
 
-[Kézdi Gábor nem félt a nehéz kérdésekről (Qubit)](https://qubit.hu/2021/08/04/kezdi-gabor-az-iskolai-szegregacio-es-a-romak-elleni-diszkriminacio-kutatoja-nem-felt-a-nehez-kerdesektol)
+[Kézdi Gábor nem félt a nehéz kérdésektől (Qubit)](https://qubit.hu/2021/08/04/kezdi-gabor-az-iskolai-szegregacio-es-a-romak-elleni-diszkriminacio-kutatoja-nem-felt-a-nehez-kerdesektol)
 
 <hr/>
 Demokratizáljuk a tudást. Azt hiszem, ez volt Kézdi Gábor életének egyik nagy célja, öröme és sikere. Hatással lenni, segíteni a diákokat. 
